@@ -1,0 +1,30 @@
+
+=========== fonts ===========
+- Raleway & open Sans
+
+========== bootstrap ==========
+- media query
+- gride system
+- navbar-inverse , navbar-fixed-top & navbar-toggle collapsed
+- form-control & input-lg
+- btn-block & btn-lg
+- list-unstyled
+- img-responsive center-block 
+- hidden-sm hidden-xs
+- pull-left
+- media
+
+========== Jquery =============
+
+- Fixes Transparent navbar while scrolling :
+	- scroll()
+	- scrollTop()
+	- addClass() , removeClass & hasClass
+	
+- Deal with tabs section ( make tab has class active when clicking on it):
+	- custome attribute - data()
+	- siblings()
+	- hide() & show()
+	
+============= CSS ==============
+- calc()
